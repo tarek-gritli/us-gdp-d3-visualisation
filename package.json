@@ -1,0 +1,16 @@
+{
+  "name": "us-gdp-bar-chart",
+  "version": "1.0.0",
+  "description": "Visualisation of US GDP from 1947 to 2015 using D3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "d3",
+    "data-visualization",
+    "bar-chart"
+  ],
+  "author": "tarek-gritli",
+  "license": "ISC"
+}
