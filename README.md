@@ -8,6 +8,7 @@ This project is a data visualization of the US GDP using a bar chart.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Deployment](#deployment)
 
 ## Introduction
 
@@ -38,3 +39,6 @@ Once the project is running, you can interact with the bar chart to explore the 
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
+## Deployment
+
+This website was deployed using Netlify. You can access it [here](https://us-gdp-bar-chart-d3.netlify.app/)
